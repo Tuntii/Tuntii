@@ -1,5 +1,4 @@
 # 💫 About Me:
- I’m currently working on Deercase<br> I’m currently learning Unity, Blockchain Development, Web Development<br> Ask me about anything<br>
 
 
 ## 🌐 Socials:
