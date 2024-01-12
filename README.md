@@ -2,4 +2,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuntii&" alt="tuntii" /></p>
 
 
-<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="Tunti35" data-description="Support me on Buy me a coffee!" data-message="Thank You visiting" data-color="#26B0A1" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+<a href="https://www.buymeacoffee.com/Tunti35"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=Tunti35&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
